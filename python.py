@@ -1,2 +1,2 @@
-printf"hello"
+print "hello"
 
